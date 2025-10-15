@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.ven.main;
 
-/**
- *
- * @author Kcent
- */
 public class Main {
 
     public static void main(String[] args) {
